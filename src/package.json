@@ -1,0 +1,30 @@
+{
+  "author": "Dipesh Patel",
+  "name": "node-sms",
+  "description": "A SMS sending utility, having single interface to send through various SMS providers",
+  "version": "0.0.1",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/masterdipesh/node-sms"
+  },
+  "license": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/masterdipesh/node-sms/blob/master/LICENSE"
+    }
+  ],
+  "main": "./lib/node-sms.js",
+  "keywords": [
+    "sms",
+    "SMS Gupshup",
+    "sending sms"
+  ],
+  "bin": {},
+  "dependencies": {
+    "request": "^2.51.0"
+  },
+  "engine": {
+    "node": "*"
+  }
+}
