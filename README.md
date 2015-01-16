@@ -1,4 +1,4 @@
-node-sms
+node-libsms
 ==========
 
 A SMS sending library providing single interface to send the SMS through various providers
@@ -7,7 +7,7 @@ A SMS sending library providing single interface to send the SMS through various
 ### Installing module in Node Applicaiton
 
 ```node
-$> npm install node-sms
+$> npm install node-libsms
 ```
 
 ### Introduction

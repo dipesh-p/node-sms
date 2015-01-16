@@ -1,6 +1,6 @@
 {
   "author": "Dipesh Patel",
-  "name": "node-sms",
+  "name": "node-libsms",
   "description": "A SMS sending utility, having single interface to send through various SMS providers",
   "version": "0.0.1",
   "private": false,
